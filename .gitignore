@@ -1,0 +1,47 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment folder
+.env/
+
+# Dependency folders
+venv/
+env/
+envs/
+.venv/
+.vscode/
+
+# Logs and output files
+*.log
+*.pot
+*.pyc
+*.swp
+.DS_Store
+weights/
+data/
+wandb/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.egg/
+
+# Cache and temporary files
+.cache/
+.cached/
+.tmp/
+.temp/
+.temp/
+.tmp/
+temp/
+temp.txt
+
+# Jupyter Notebook specific
+.ipynb_checkpoints/
+.ipynb_checkpoints/*.ipynb
+
+# Visual Studio Code specific
+.vscode/
